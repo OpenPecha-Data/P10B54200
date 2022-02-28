@@ -1,0 +1,27 @@
+id: P10B54200
+initial_creation_type: input
+source_metadata:
+  title: Kashmiri Śākyaśrībhadra
+  language: en
+  description: 'Texts by and about the Kashmiri master Śākyaśrībhadra (shā kya shrī
+    bzang po, 1127–1225), who in 1204 travelled to Tibet, where he became the teacher
+    of a number of important lamas, including Sakya Paṇḍita Kunga Gyaltsen:'
+  volume:
+    d75803fd484242adb9554bb4b01afa84:
+      title: An Instruction on Pure View and Conduct
+      parent: Instructions
+    78e2c8b95b1d45448e01fa43e453dea2:
+      title: A Brief Practice for Paying Homage and Making Offerings to the Buddha
+        together with his retinue of Arhats
+      parent: Practices
+    ee0b5cca72214f4c82b57ef5d82790c9:
+      title: Taking the Vows of Sojong
+      parent: Practices
+    f4cb68949aa94d9aaeeadba701934244:
+      title: The Seven Branches for Practising the Sacred Dharma
+      parent: Practices
+    96503c2fee7e497f9d1ea2891be5a9ff:
+      title: Verses of Refuge and Bodhicitta
+      parent: Practices
+created_at: '2022-03-01T02:21:09.310290'
+last_modified_at: '2022-03-01T02:21:09.310296'
